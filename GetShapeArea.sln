@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetShapeArea", "GetShapeArea\GetShapeArea.csproj", "{C034AF6F-0E02-42A6-B801-79EAC6BFC795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetShapeArea.Library", "GetShapeArea.Library\GetShapeArea.Library.csproj", "{00508946-3BC8-4DED-9C75-34F4E9A16627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetShapeArea.Test", "GetShapeArea.Test\GetShapeArea.Test.csproj", "{BAB01DB6-F4CE-4D0B-AF07-32D543B05C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C034AF6F-0E02-42A6-B801-79EAC6BFC795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C034AF6F-0E02-42A6-B801-79EAC6BFC795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C034AF6F-0E02-42A6-B801-79EAC6BFC795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C034AF6F-0E02-42A6-B801-79EAC6BFC795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00508946-3BC8-4DED-9C75-34F4E9A16627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00508946-3BC8-4DED-9C75-34F4E9A16627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00508946-3BC8-4DED-9C75-34F4E9A16627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00508946-3BC8-4DED-9C75-34F4E9A16627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB01DB6-F4CE-4D0B-AF07-32D543B05C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB01DB6-F4CE-4D0B-AF07-32D543B05C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB01DB6-F4CE-4D0B-AF07-32D543B05C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB01DB6-F4CE-4D0B-AF07-32D543B05C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
