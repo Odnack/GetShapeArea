@@ -12,7 +12,9 @@
 Не описаны таблицы, предполагаю таблицы со следующими названиями: </br>
 Products(Id, Name, ...)</br>
 Categories(Id, Name, ...)</br>
-ProductsToCategories(ProductId, CategoryId)
+ProductsToCategories(ProductId, CategoryId)</br>
+</br>
+Не назван диалект языка, использовал ms sql
 
 # Как добавить новую фигуру 
 Для добавления новой фигуру необходимо в папку Implementation добавить фигуру и унаследовать от абстрактного класса Figure
