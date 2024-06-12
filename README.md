@@ -10,8 +10,8 @@
 
 ## Скрипт для БД
 Не описаны таблицы, предполагаю таблицы со следующими названиями: </br>
-Products(Id, ...)</br>
-Categories(Id, ...)</br>
+Products(Id, Name, ...)</br>
+Categories(Id, Name, ...)</br>
 ProductsToCategories(ProductId, CategoryId)
 
 # Как добавить новую фигуру 
